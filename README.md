@@ -6,8 +6,6 @@ I’m Nunsi Shiaki, a Computer Engineering student and a passionate Data Scienti
 
 As a Microsoft Student Ambassador, Data Science Nigeria Ambassador, Zindi Ambassador and tech community leader, I mentor aspiring AI practitioners, organize workshops, and participate in hackathons to solve real-world problems. I thrive on turning ideas into impactful, community driven solutions
 
---
-
 ## 🔗 Connect with Me
 
 - 🌐 Blog: [Link](https://medium.com/@nunsiomi)  
